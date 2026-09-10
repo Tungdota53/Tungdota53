@@ -81,7 +81,6 @@
       <p><b>Stack:</b> <code>Next.js</code> <code>Laravel</code> <code>Python</code> <code>YOLOv8</code></p>
       <p>
         <a href="https://github.com/Tungdota53/floodguard-ai" target="_blank">📦 <b>[ GitHub Repo ]</b></a> &nbsp;|&nbsp;
-        <a href="http://floodguard.io.vn" target="_blank">🌐 <b>[ Live Demo ]</b></a>
       </p>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
